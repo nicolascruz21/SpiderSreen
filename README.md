@@ -1,14 +1,12 @@
 # SpiderSreen
 Projeto JS, que gerencia links, avisos, e Aniversariantes
 
-[img]https://i.imgur.com/vBMZxhA.png[/img]
-
+<a href="https://imgur.com/vBMZxhA"><img src="https://i.imgur.com/vBMZxhA.png" title="source: imgur.com" /></a>
 
 Sidebar Scroll:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="tXU0GOI"><a href="https://imgur.com/tXU0GOI">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+<a href="https://imgur.com/tXU0GOI"><img src="https://i.imgur.com/tXU0GOI.png" title="source: imgur.com" /></a>
 
 Sidebar responsiva:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="xvhGRk2"><a href="https://imgur.com/xvhGRk2">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a href="https://imgur.com/xvhGRk2"><img src="https://i.imgur.com/xvhGRk2.png" title="source: imgur.com" /></a>
